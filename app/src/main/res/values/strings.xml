@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WiFiClose</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">Программа отключает WiFi после потери соединения с точкой доступа в течении:</string>
+    <string name="on_off_work">Вкл/Выкл работу</string>
+    <string name="sec"> сек.</string>
+</resources>
